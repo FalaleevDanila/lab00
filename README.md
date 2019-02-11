@@ -17,8 +17,8 @@
 
 ## Tutorial
 
+Проверка окружения для разработки (`cmake`, `curl` и ...)
 ```sh
-# check development environment
 $ cmake --version
 ...
 cmake version 3.5.1
