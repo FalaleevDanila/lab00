@@ -30,6 +30,7 @@ $ hub --version
 $ make --version
 $ subl --version
 $ tree --version
+Программа 'tree' на данный момент не установлена. Чтобы получить возможность запускать 'tree', попросите вашего администратора установить пакет 'tree'
 $ wget --version
 $ openssl version
 ```
