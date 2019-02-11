@@ -22,7 +22,7 @@
 $ cmake --version
 ...
 cmake version 3.5.1
-
+# проверка версии CURL
 $ curl --version
 $ git --version
 $ g++ --version
