@@ -20,6 +20,9 @@
 ```sh
 # check development environment
 $ cmake --version
+cmake version 3.5.1
+
+CMake suite maintained and supported by Kitware (kitware.com/cmake).
 $ curl --version
 $ git --version
 $ g++ --version
