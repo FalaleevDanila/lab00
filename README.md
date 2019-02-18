@@ -18,22 +18,37 @@
 
 Проверка окружения для разработки (`cmake`, `curl` и ...)
 ```sh
-$ cmake --version
-...
-cmake version 3.5.1
-# проверка версии CURL
-$ curl --version
-$ git --version
-$ g++ --version
-$ hub --version
-$ make --version
-$ subl --version
-$ tree --version
-Программа 'tree' на данный момент не установлена. 
-Чтобы получить возможность запускать 'tree',
-попросите вашего администратора установить пакет 'tree'
-$ wget --version
-$ openssl version
+
+$ cmake --version # проверка версии CMake
+cmake version 3.7.2 
+
+$ curl --version # проверка версии CURL
+curl 7.52.1
+
+$ git --version # проверка версии GIT
+git version 2.11.0
+
+$ g++ --version # проверка версии 
+g++ (Debian 6.3.0-18+deb9u1) 6.3.0 20170516
+
+$ hub --version # проверка версии HUB
+git version 2.11.0 hub version 2.9.0
+
+$ make --version # проверка версии GNU Make
+GNU Make 4.1
+
+$ subl --version # проверка версии subl
+Sublime Text Build 3176
+
+$ tree --version # проверка версии tree
+tree v1.7.0 
+
+$ wget --version # проверка версии wget
+GNU Wget 1.18 для linux-gnu.
+
+$ openssl version # проверка версии
+OpenSSL 1.1.0j  20 Nov 2018
+
 ```
 
 ## Links
